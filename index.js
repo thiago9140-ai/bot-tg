@@ -6,7 +6,7 @@ require('dotenv').config();
 const app = express();
 app.use(express.json());
 
-const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const anthropic = new Anthropic();
 
 const ALLOWED_NUMBERS = process.env.ALLOWED_NUMBERS
   ? process.env.ALLOWED_NUMBERS.split(',').map(n => n.trim())
@@ -23,7 +23,6 @@ app.post('/webhook', async (req, res) => {
   res.sendStatus(200);
   const body = req.body;
 
-  // DEBUG — mostra tudo que chega
   console.log('[WEBHOOK]', JSON.stringify(body));
 
   if (body.fromMe) { console.log('[IGNORADO] fromMe'); return; }
