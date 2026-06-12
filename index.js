@@ -9,6 +9,9 @@ app.use(express.json());
 
 const anthropic = new Anthropic();
 
+// Histórico de conversa por número
+const conversationHistory = new Map();
+
 const SAUDACOES = ['oi', 'olá', 'ola', 'bom dia', 'boa tarde', 'boa noite', 'hey', 'hello', 'hi', 'e aí', 'eai', 'oii', 'oiii', 'opa', 'salve'];
 
 function isSaudacao(msg) {
@@ -40,7 +43,6 @@ COMPORTAMENTO:
 - No máximo 1 emoji por mensagem, só quando necessário
 - Nunca diga que é bot ou IA
 - Nunca prometa o que não pode garantir
-- Sem mensagens de aguarde ou estou calculando
 - Quando tiver produto + sabor + endereço: pare e aguarde
 
 SAUDAÇÃO: Quando o cliente cumprimentar, responda apenas a saudação brevemente. O catálogo já será enviado automaticamente pelo sistema.
@@ -84,7 +86,9 @@ app.post('/webhook', async (req, res) => {
   console.log(`[MENSAGEM] ${phone}: ${message}`);
 
   try {
+    // Saudação: reseta histórico + responde + envia catálogo
     if (isSaudacao(message)) {
+      conversationHistory.delete(phone);
       const response = await anthropic.messages.create({
         model: 'claude-haiku-4-5-20251001',
         max_tokens: 100,
@@ -94,19 +98,29 @@ app.post('/webhook', async (req, res) => {
       const saudacaoReply = response.content[0].text;
       await enviarMensagem(phone, saudacaoReply);
       await enviarMensagem(phone, CATALOGO);
-      console.log(`[SAUDAÇÃO] Respondido + catálogo enviado`);
+      console.log(`[SAUDAÇÃO] ${phone}`);
       return;
     }
+
+    // Busca ou cria histórico do cliente
+    const history = conversationHistory.get(phone) || [];
+    history.push({ role: 'user', content: message });
 
     const response = await anthropic.messages.create({
       model: 'claude-haiku-4-5-20251001',
       max_tokens: 1024,
       system: SYSTEM_PROMPT,
-      messages: [{ role: 'user', content: message }],
+      messages: history,
     });
 
     const reply = response.content[0].text;
-    console.log(`[RESPOSTA] ${reply}`);
+    history.push({ role: 'assistant', content: reply });
+
+    // Mantém só as últimas 20 mensagens (10 trocas)
+    if (history.length > 20) history.splice(0, 2);
+    conversationHistory.set(phone, history);
+
+    console.log(`[RESPOSTA] ${phone}: ${reply}`);
     await enviarMensagem(phone, reply);
 
   } catch (err) {
