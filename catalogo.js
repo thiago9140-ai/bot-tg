@@ -1,371 +1,371 @@
-onst CATALOGO = `*_BEM VINDO A TG_* âš½ðŸ†
+const CATALOGO = `*_BEM VINDO A TG_* ⚽🏆
 
-ðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸ
-ðŸ† *PROMOÃ‡ÃƒO COPA DO MUNDO 2026* ðŸ†
-âš½ *A CADA R$200,00 EM COMPRAS*
-ðŸŽ *VOCÃŠ GANHA UM PACOTE DE FIGURINHAS!*
-ðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸ
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+🏆 *PROMOÇÃO COPA DO MUNDO 2026* 🏆
+⚽ *A CADA R$200,00 EM COMPRAS*
+🎁 *VOCÊ GANHA UM PACOTE DE FIGURINHAS!*
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
-ðŸ‡§ðŸ‡· *BORA QUE O BRASIL VAI SER HEXA!* ðŸ‡§ðŸ‡·
+🇧🇷 *BORA QUE O BRASIL VAI SER HEXA!* 🇧🇷
 
-â”â”â”â”â” IGNITE â”â”â”â”â”
+━━━━━ IGNITE ━━━━━
 
-*ðŸ”¥SUPER PROMOÃ‡ÃƒO ðŸ’£*
+*🔥SUPER PROMOÇÃO 💣*
 *TODA LINHA V400 2 POR R$149,00 (CADA)*
-*âœ…R$60,00 OFF âœ…*
+*✅R$60,00 OFF ✅*
 
-*ðŸ”¥PROMOÃ‡ÃƒO ðŸ”¥*
+*🔥PROMOÇÃO 🔥*
 *IGNITE V400 MIX 40k puffs DE R$179,00 POR R$169,00*
 *2 SABORES EM 1*
-* Menta icy + uva com pÃªssego
+* Menta icy + uva com pêssego
 * Abacaxi e manga icy + morango
 * Melancia icy + cereja icy
 * Morango e manga icy + banana
 * Melancia + uva verde
-* Melancia com uva icy + aÃ§aÃ­
+* Melancia com uva icy + açaí
 * Uva icy + morango
-* MaÃ§Ã£ icy + morango e melancia
-* PÃªssego e melancia icy + manga
+* Maçã icy + morango e melancia
+* Pêssego e melancia icy + manga
 * Uva icy + melancia icy
 * Mirtilo + framboesa
-* Manga icy + maracujÃ¡ e goiaba
-* Menta + melÃ£o
+* Manga icy + maracujá e goiaba
+* Menta + melão
 * Laranja icy + morango icy
 * Uva verde + morango com melancia icy
-* AÃ§aÃ­ icy + uva com melancia icy
-* Manga icy + pÃªssego com melancia icy
+* Açaí icy + uva com melancia icy
+* Manga icy + pêssego com melancia icy
 
-*ðŸ”¥PROMOÃ‡ÃƒO ðŸ”¥*
-*IGNITE ICE ðŸ§Š V400 40.000 puffs DE R$179,00 POR R$169,00*
-* Strawberry ðŸ“
-* Strawberry banana ðŸ“+ðŸŒ
-* Blueberry ðŸ«
-* Grape peach ðŸ‡ðŸ‘
-* Strawberry Watermelon ðŸ“ðŸ‰
-* Strawberry kiwi ðŸ“ðŸ¥
-* Sakura grape ðŸ‡ðŸ’
-* Grape mix ðŸ‡
-* Grape ðŸ‡
-* Pineaple kiwi dragonfruit (ðŸðŸ¥+pitaya)
-* Pineaple ðŸ
-* Blue razz lemon (ðŸ«+framboesa+ðŸ‹)
-* Menthol ðŸŒ¿
-* Mint ðŸŒ¿ðŸ§Š
-* Strawberry Apple watermelon ðŸ“ðŸðŸ‰
-* Peach mango watemelon ðŸ‘ðŸ¥­ðŸ‰
-* Cherry watemelon ðŸ’ðŸ‰
-* Watermelon ðŸ‰
-* Cola ice ðŸ¥¤
+*🔥PROMOÇÃO 🔥*
+*IGNITE ICE 🧊 V400 40.000 puffs DE R$179,00 POR R$169,00*
+* Strawberry 🍓
+* Strawberry banana 🍓+🍌
+* Blueberry 🫐
+* Grape peach 🍇🍑
+* Strawberry Watermelon 🍓🍉
+* Strawberry kiwi 🍓🥝
+* Sakura grape 🍇🍒
+* Grape mix 🍇
+* Grape 🍇
+* Pineaple kiwi dragonfruit (🍍🥝+pitaya)
+* Pineaple 🍍
+* Blue razz lemon (🫐+framboesa+🍋)
+* Menthol 🌿
+* Mint 🌿🧊
+* Strawberry Apple watermelon 🍓🍏🍉
+* Peach mango watemelon 🍑🥭🍉
+* Cherry watemelon 🍒🍉
+* Watermelon 🍉
+* Cola ice 🥤
 
-*ðŸ”¥PROMOÃ‡ÃƒO ðŸ”¥*
-*IGNITE SWEET ðŸ¬ V400 40.000 puffs DE R$179,00 POR R$169,00*
-* Triple mango ðŸ¥­
-* Miami mint ðŸŒ¿
-* Cool menthol ðŸŒ¿
+*🔥PROMOÇÃO 🔥*
+*IGNITE SWEET 🍬 V400 40.000 puffs DE R$179,00 POR R$169,00*
+* Triple mango 🥭
+* Miami mint 🌿
+* Cool menthol 🌿
 
-*ðŸš€LANÃ‡AMENTO + PROMOÃ‡ÃƒOðŸš€*
+*🚀LANÇAMENTO + PROMOÇÃO🚀*
 *IGNITE V300 SLIM 30.000 puffs - ULTRA FINO DE R$159,00 POR R$139,00*
-* Cactus lime Soda ðŸ‹
-* Grape ice ðŸ‡
-* Banana ice ðŸŒ
-* Green Apple ðŸ
-* Strawberry kiwi ðŸ“ðŸ¥
-* Dragonfruit watemelon (pitaya+ðŸ‰)
-* Sweet and sour pomegranate (romÃ£+frutas vermelhas)
-* Peach mango ðŸ‘ðŸ¥­
-* Minty melon ðŸŒ¿ðŸˆ
-* Banana coconut water ðŸŒðŸ¥¥
-* Pineaple ice ðŸ
-* Blueberry ice ðŸ«
-* Menthol ðŸŒ¿
+* Cactus lime Soda 🍋
+* Grape ice 🍇
+* Banana ice 🍌
+* Green Apple 🍏
+* Strawberry kiwi 🍓🥝
+* Dragonfruit watemelon (pitaya+🍉)
+* Sweet and sour pomegranate (romã+frutas vermelhas)
+* Peach mango 🍑🥭
+* Minty melon 🌿🍈
+* Banana coconut water 🍌🥥
+* Pineaple ice 🍍
+* Blueberry ice 🫐
+* Menthol 🌿
 
-*ðŸ”¥PROMOÃ‡ÃƒO ðŸ”¥*
+*🔥PROMOÇÃO 🔥*
 *IGNITE V300 30.000 puffs DE R$159,00 POR R$139,00*
-* Strawberry banana ðŸ“+ðŸŒ
+* Strawberry banana 🍓+🍌
 
-*ðŸ”¥SUPER PROMOÃ‡ÃƒO ðŸ’£*
+*🔥SUPER PROMOÇÃO 💣*
 *IGNITE V250 25.000 puffs DE R$169,00 POR R$129,00* (ROSE)
-*âœ…R$40,00 OFF âœ…*
-* Strawberry banana ðŸŒðŸ“
-* Banana ice ðŸŒ
+*✅R$40,00 OFF ✅*
+* Strawberry banana 🍌🍓
+* Banana ice 🍌
 
-*ðŸ”¥SUPER PROMOÃ‡ÃƒO ðŸ’£*
+*🔥SUPER PROMOÇÃO 💣*
 *IGNITE V250 25.000 puffs DE R$169,00 POR R$129,00* (DOURADO)
-*âœ…R$40,00 OFF âœ…*
-* Strawberry ice ðŸ“
-* Banana ice ðŸŒ
-* Strawberry banana ðŸ“+ðŸŒ
-* Banana coconut water (ðŸŒ+ðŸ¥¥)
-* Green Apple ðŸ
-* Sweet and sour pomegranate (romÃ£+frutas vermelhas)
+*✅R$40,00 OFF ✅*
+* Strawberry ice 🍓
+* Banana ice 🍌
+* Strawberry banana 🍓+🍌
+* Banana coconut water (🍌+🥥)
+* Green Apple 🍏
+* Sweet and sour pomegranate (romã+frutas vermelhas)
 
-*ðŸ”¥SUPER PROMOÃ‡ÃƒO ðŸ’£*
+*🔥SUPER PROMOÇÃO 💣*
 *IGNITE V250 25.000 puffs DE R$169,00 POR R$129,00* (PRETO)
-*âœ…R$40,00 OFF âœ…*
-* Strawberry banana ðŸ“+ðŸŒ
-* Watermelon ice ðŸ‰
-* Banana coconut water ðŸŒ+ðŸ¥¥
-* Blueberry strawberry coconut ðŸ«+ðŸ“+ðŸ¥¥
-* Watermelon mix ðŸ‰
-* Pineaple ice ðŸ
-* Grape ice ðŸ‡
-* Menthol ðŸŒ¿
-* Minty melon ðŸŒ¿ðŸˆ
-* Blueberry ice ðŸ«
-* Icy mint ðŸŒ¿ðŸ§Š
-* Pineaple mango ðŸðŸ¥­
+*✅R$40,00 OFF ✅*
+* Strawberry banana 🍓+🍌
+* Watermelon ice 🍉
+* Banana coconut water 🍌+🥥
+* Blueberry strawberry coconut 🫐+🍓+🥥
+* Watermelon mix 🍉
+* Pineaple ice 🍍
+* Grape ice 🍇
+* Menthol 🌿
+* Minty melon 🌿🍈
+* Blueberry ice 🫐
+* Icy mint 🌿🧊
+* Pineaple mango 🍍🥭
 
 *IGNITE V155 ULTRA SLIM 15.500k R$114,00*
-ðŸ”¥PROMOÃ‡ÃƒO - *2 POR R$99,00 (CADA)*
-âœ…R$30,00 OFF âœ…
-* Strawberry banana ðŸ“ðŸŒ
-* Tropical aÃ§aÃ­ (aÃ§aÃ­+frutas tropicais)
-* Green Apple ðŸ
-* Banana ice ðŸŒ
-* Watemelon Dragonfruit (ðŸ‰+pitaya)
-* Watemelon mix ðŸ‰
-* Strawberry watemelon ðŸ“ðŸ‰
-* Watemelon ice ðŸ‰
-* Strawberry kiwi ðŸ“ðŸ¥
-* Blueberry ice ðŸ«
-* Strawberry ice ðŸ“
-* Kiwi passion fruit guava (ðŸ¥+maracujÃ¡+goiaba)
-* Grape ice ðŸ‡
-* Pineaple ice ðŸ
+🔥PROMOÇÃO - *2 POR R$99,00 (CADA)*
+✅R$30,00 OFF ✅
+* Strawberry banana 🍓🍌
+* Tropical açaí (açaí+frutas tropicais)
+* Green Apple 🍏
+* Banana ice 🍌
+* Watemelon Dragonfruit (🍉+pitaya)
+* Watemelon mix 🍉
+* Strawberry watemelon 🍓🍉
+* Watemelon ice 🍉
+* Strawberry kiwi 🍓🥝
+* Blueberry ice 🫐
+* Strawberry ice 🍓
+* Kiwi passion fruit guava (🥝+maracujá+goiaba)
+* Grape ice 🍇
+* Pineaple ice 🍍
 
 *IGNITE V150 PRO 15k R$114,00*
-âœ… CUSTO BENEFÃCIO âœ…
-* Green Apple peach kiwi ðŸ+ðŸ‘+ðŸ¥
-* Strawberry Apple Watermelon ðŸ“+ðŸ+ðŸ‰
-* Sour Apple ice ðŸ
-* Green Apple ðŸ
-* Cranberry lemonade ðŸ’ðŸ‹
+✅ CUSTO BENEFÍCIO ✅
+* Green Apple peach kiwi 🍏+🍑+🥝
+* Strawberry Apple Watermelon 🍓+🍏+🍉
+* Sour Apple ice 🍏
+* Green Apple 🍏
+* Cranberry lemonade 🍒🍋
 
 *IGNITE V150 NORMAL 15k R$109,00*
-* Perpermint e cream ðŸŒ¶ï¸ðŸŒ¿ðŸ¦
-* Dragonfruit lemonade (pitaya+ðŸ‹)
+* Perpermint e cream 🌶️🌿🍦
+* Dragonfruit lemonade (pitaya+🍋)
 
-*ðŸš€LANÃ‡AMENTOðŸš€*
+*🚀LANÇAMENTO🚀*
 *IGNITE FROZEN 20k puffs R$109,00*
-* Blueberry ðŸ«
-* Pineaple ice ðŸ
-* Strawberry kiwi ðŸ“ðŸ¥
-* Watermelon ice ðŸ‰
-* Strawberry banana ðŸ“ðŸŒ
-* Strawberry ice ðŸ“
-* Grape ice ðŸ‡
-* Icy mint ðŸŒ¿ðŸ§Š
-* Menthol ðŸŒ¿
+* Blueberry 🫐
+* Pineaple ice 🍍
+* Strawberry kiwi 🍓🥝
+* Watermelon ice 🍉
+* Strawberry banana 🍓🍌
+* Strawberry ice 🍓
+* Grape ice 🍇
+* Icy mint 🌿🧊
+* Menthol 🌿
 
 *IGNITE V120 GOLD 12K PUFFS R$109,00*
-* Watemelon peach ðŸ‰ðŸ‘
-* Blueberry mint ðŸ«ðŸŒ¿
+* Watemelon peach 🍉🍑
+* Blueberry mint 🫐🌿
 
 *IGNITE V120 BLUE 12K PUFFS R$109,00*
-* Green Apple ðŸ
-* Blue razz lemon ðŸ«ðŸ‹
+* Green Apple 🍏
+* Blue razz lemon 🫐🍋
 
 *IGNITE V120 BLACK 12K PUFFS R$109,00*
-* Green Apple ðŸ
+* Green Apple 🍏
 
 *IGNITE V120 ROSE 12K PUFFS R$109,00*
-* Green Apple ðŸ
+* Green Apple 🍏
 * Aloe Grape (uva verde)
 
-*ðŸš€LANÃ‡AMENTOðŸš€*
+*🚀LANÇAMENTO🚀*
 *Novo Ignite V80 SLIM 8.000 puffs R$105,00*
-ðŸ”¥PROMOÃ‡ÃƒO - *2 POR R$99,00 (CADA)*
-* Grape ice ðŸ‡
-* Icy mint ðŸŒ¿ðŸ§Š
-* Cactus (cacto+limÃ£o) ðŸ‹
-* Strawberry ice ðŸ“
-* Watermelon ice ðŸ‰
-* Banana ice ðŸŒ
-* Blueberry ice ðŸ«
+🔥PROMOÇÃO - *2 POR R$99,00 (CADA)*
+* Grape ice 🍇
+* Icy mint 🌿🧊
+* Cactus (cacto+limão) 🍋
+* Strawberry ice 🍓
+* Watermelon ice 🍉
+* Banana ice 🍌
+* Blueberry ice 🫐
 * Passion fruit sour kiwi
 
 *Novo Ignite V80 (com tela) 8.000 puffs R$99,00*
-* AÃ§aÃ­ ice
-* Green Apple ðŸ
-* Strawberry ice ðŸ“
-* Strawberry kiwi ðŸ“+ðŸ¥
-* Banana cherry ðŸŒ+ðŸ’
-* Blueberry lemon ðŸ«+ðŸ‹
-* Grapefruit mint (ðŸŠ+menta)
+* Açaí ice
+* Green Apple 🍏
+* Strawberry ice 🍓
+* Strawberry kiwi 🍓+🥝
+* Banana cherry 🍌+🍒
+* Blueberry lemon 🫐+🍋
+* Grapefruit mint (🍊+menta)
 * Passion fruit sour kiwi
-* Menthol ðŸŒ¿
+* Menthol 🌿
 
 *Ignite 8.000 puffs R$99,00 (GOLD)*
-* Strawberry ice ðŸ“
-* Banana ice ðŸŒ
+* Strawberry ice 🍓
+* Banana ice 🍌
 
-*ðŸš€LANÃ‡AMENTOðŸš€ - substituto DO V50*
+*🚀LANÇAMENTO🚀 - substituto DO V50*
 *IGNITE V55 5.500K PUFFS R$99,00*
-ðŸ”¥PROMOÃ‡ÃƒO - *2 POR R$89,00 (CADA)*
-* Miami mint ðŸŒ¿
-* Menthol ðŸŒ¿
-* Strawberry ice ðŸ“
-* Grape ice ðŸ‡
-* Watemelon ice ðŸ‰
-* Strawberry watemelon ðŸ“ðŸ‰
-* Strawberry banana ðŸ“ðŸŒ
-* Strawberry kiwi ðŸ¥ðŸ“
-* Minty melon ðŸŒ¿ðŸˆ
+🔥PROMOÇÃO - *2 POR R$89,00 (CADA)*
+* Miami mint 🌿
+* Menthol 🌿
+* Strawberry ice 🍓
+* Grape ice 🍇
+* Watemelon ice 🍉
+* Strawberry watemelon 🍓🍉
+* Strawberry banana 🍓🍌
+* Strawberry kiwi 🥝🍓
+* Minty melon 🌿🍈
 * Aloe Grape (uva verde)
-* Blueberry ice ðŸ«
-* Icy mint ðŸŒ¿
-* Vanila cream (sorvete de baunilha) ðŸ¦
+* Blueberry ice 🫐
+* Icy mint 🌿
+* Vanila cream (sorvete de baunilha) 🍦
 
-â”â”â”â”â” ELFBAR â”â”â”â”â”
+━━━━━ ELFBAR ━━━━━
 
-*ðŸ”¥SUPER PROMOÃ‡ÃƒO ðŸ’£*
-*ELFBAR 40k Puffs - KING ðŸ‘‘ DE R$179,00 POR R$139,00*
-ðŸ”¥APENAS R$139,00ðŸ”¥
-âœ…R$40,00 OFF âœ…
-* Cherry fuse ðŸ’
-* Cherry strazz ðŸ’
-* Sour strawberry dragonfruit (ðŸ“+pitaya)
-* Triple berry Summer Edition ðŸ“ðŸ«ðŸ’
-* Strawberry Watermelon ðŸ“+ðŸ‰
-* Strawberry ice ðŸ“
-* Watermelon ice ðŸ‰
-* Sour lush gummy ðŸ¬
-* Blue razz ice (ðŸ«+framboesa)
-* Peach ice ðŸ‘
-* Dragon strawnana (pitaya+ðŸ“ðŸŒ)
-* Cola slush ðŸ¥¤
-* Grape ice ðŸ‡
-* Mango magic ðŸ¥­
-* Miami mint ðŸŒ¿
+*🔥SUPER PROMOÇÃO 💣*
+*ELFBAR 40k Puffs - KING 👑 DE R$179,00 POR R$139,00*
+🔥APENAS R$139,00🔥
+✅R$40,00 OFF ✅
+* Cherry fuse 🍒
+* Cherry strazz 🍒
+* Sour strawberry dragonfruit (🍓+pitaya)
+* Triple berry Summer Edition 🍓🫐🍒
+* Strawberry Watermelon 🍓+🍉
+* Strawberry ice 🍓
+* Watermelon ice 🍉
+* Sour lush gummy 🍬
+* Blue razz ice (🫐+framboesa)
+* Peach ice 🍑
+* Dragon strawnana (pitaya+🍓🍌)
+* Cola slush 🥤
+* Grape ice 🍇
+* Mango magic 🥭
+* Miami mint 🌿
 
 *Elfbar 30k puffs (slim) R$139,00*
-ðŸ”¥PROMOÃ‡ÃƒO - *2 POR R$127,00 (CADA)*
-âœ…R$24,00 OFF âœ…
-* AÃ§aÃ­ +ðŸŒ
-* Strawmelon peach ðŸ“ðŸˆðŸ‘
-* Cherry strazz ðŸ’
-* Sour lush gummy ðŸ¬
-* Dragon strawnana (ðŸ“+ðŸŒ+pitaya)
-* Elf love ðŸ’ðŸ“
-* Menthol ðŸƒ
-* Spearmint ðŸƒ
-* Miami mint ðŸŒ¿
-* Strawberry ice ðŸ“
-* Strawberry watermelon ice ðŸ“ðŸ‰
-* Watermelon ice ðŸ‰
-* Bubbaloo Grape ðŸ¬ðŸ‡
-* Pineaple mango ðŸðŸ¥­
-* Pineaple ice ðŸ
-* Guava passion fruit kiwi (goiaba+maracujÃ¡+ðŸ¥)
+🔥PROMOÇÃO - *2 POR R$127,00 (CADA)*
+✅R$24,00 OFF ✅
+* Açaí +🍌
+* Strawmelon peach 🍓🍈🍑
+* Cherry strazz 🍒
+* Sour lush gummy 🍬
+* Dragon strawnana (🍓+🍌+pitaya)
+* Elf love 🍒🍓
+* Menthol 🍃
+* Spearmint 🍃
+* Miami mint 🌿
+* Strawberry ice 🍓
+* Strawberry watermelon ice 🍓🍉
+* Watermelon ice 🍉
+* Bubbaloo Grape 🍬🍇
+* Pineaple mango 🍍🥭
+* Pineaple ice 🍍
+* Guava passion fruit kiwi (goiaba+maracujá+🥝)
 
 *ELF 23k R$149,00*
-ðŸ”¥PROMOÃ‡ÃƒO - *2 POR R$137,00 (CADA)*
-âœ…R$24,00 OFF âœ…
-* Blueberry pear (ðŸ«+pera)
-* Green Apple ice ðŸ
-* Blue razz (ðŸ«+framboesa)
-* Strawberry banana ðŸ“+ðŸŒ
-* Spiring mint ðŸƒ
-* Baja splash (ðŸ‹+ðŸ+ðŸ’+laranja)
-* Sakura ðŸ‡ðŸ’
-* Grape ice ðŸ‡
-* Icy mint ðŸƒðŸ§Š
-* Miami mint ðŸƒ
-* Watermelon ðŸ‰
-* Peach mango watermelon ðŸ‘ðŸ¥­ðŸ‰
+🔥PROMOÇÃO - *2 POR R$137,00 (CADA)*
+✅R$24,00 OFF ✅
+* Blueberry pear (🫐+pera)
+* Green Apple ice 🍏
+* Blue razz (🫐+framboesa)
+* Strawberry banana 🍓+🍌
+* Spiring mint 🍃
+* Baja splash (🍋+🍍+🍒+laranja)
+* Sakura 🍇🍒
+* Grape ice 🍇
+* Icy mint 🍃🧊
+* Miami mint 🍃
+* Watermelon 🍉
+* Peach mango watermelon 🍑🥭🍉
 
 *ELFBAR 15 MIL PUFFS R$89,00*
-âœ… CUSTO BENEFÃCIO âœ…
-* Sour Apple ice ðŸ
-* Green Apple ice ðŸ
-* Americano ice â˜•ï¸
-* Kiwi Passion fruit guava (ðŸ¥+maracujÃ¡+goiaba)
-* Passion fruit orange guava (maracujÃ¡+ðŸŠ+goiaba)
-* Blue razz ice (ðŸ«+framboesa)
-* Pineaple ice ðŸ
+✅ CUSTO BENEFÍCIO ✅
+* Sour Apple ice 🍏
+* Green Apple ice 🍏
+* Americano ice ☕️
+* Kiwi Passion fruit guava (🥝+maracujá+goiaba)
+* Passion fruit orange guava (maracujá+🍊+goiaba)
+* Blue razz ice (🫐+framboesa)
+* Pineaple ice 🍍
 
-ðŸ”¥ ESTÃ DE VOLTA ðŸ”¥
+🔥 ESTÁ DE VOLTA 🔥
 *Elf bar 10.000 puffs R$99,00*
-* Strawberry banana ðŸ“ðŸŒ
-* Grape ice ðŸ‡
-* Pineaple ice ðŸ
-* Blue razz (ðŸ«+framboesa)
-* Pear Watermelon dragonfruit (pera+ðŸ‰+pitaya)
-* Blueberry mint (ðŸ«+menta)
-* Green Apple ðŸ
-* Watemelon ice ðŸ‰
-* Strawberry ice ðŸ“
+* Strawberry banana 🍓🍌
+* Grape ice 🍇
+* Pineaple ice 🍍
+* Blue razz (🫐+framboesa)
+* Pear Watermelon dragonfruit (pera+🍉+pitaya)
+* Blueberry mint (🫐+menta)
+* Green Apple 🍏
+* Watemelon ice 🍉
+* Strawberry ice 🍓
 
-â”â”â”â”â” RECARREGÃVEIS / REFIL â”â”â”â”â”
+━━━━━ RECARREGÁVEIS / REFIL ━━━━━
 
 *IGNITE REFIL P100 - 10K PUFFS*
 *1 REFIL + 1 BATERIA = R$139,00*
-* Strawberry ice ðŸ“
-* Menthol (MENTA) ðŸŒ¿
-* Green Apple ðŸ
+* Strawberry ice 🍓
+* Menthol (MENTA) 🌿
+* Green Apple 🍏
 
-*ðŸ”¥PROMOÃ‡ÃƒO ðŸ”¥*
+*🔥PROMOÇÃO 🔥*
 *OXBAR 64.000 puffs DE R$199,00 POR R$165,00*
 *2 Refil + 1 Bateria*
-* Double Apple ðŸ
-* Strawberry watermelon ice ðŸ“ðŸ‰
-* Banana ice ðŸŒ
-* Tropical love ðŸðŸ’
-* Strawberry banana ðŸ“ðŸŒ
-* Ox love (maracujÃ¡+ðŸ‰)
-* Watermelon halls ðŸ‰ðŸŒ¿
-* Red ice ðŸ“ðŸ‰ðŸŒ¿
-* Blue razz ice (ðŸ«+framboesa)
-* Cola ice ðŸ¥¤
+* Double Apple 🍏
+* Strawberry watermelon ice 🍓🍉
+* Banana ice 🍌
+* Tropical love 🍍🍒
+* Strawberry banana 🍓🍌
+* Ox love (maracujá+🍉)
+* Watermelon halls 🍉🌿
+* Red ice 🍓🍉🌿
+* Blue razz ice (🫐+framboesa)
+* Cola ice 🥤
 
 *Elf EW PREMIUM 25.000 puffs*
 *Kit refil + bateria R$139,00*
-* Cool mint ðŸŒ¿ðŸ§Š
-* Sour strawberry Dragonfruit (ðŸ“+pitaya)
-* Kiwi passion fruit guava (ðŸ¥+maracujÃ¡+goiaba)
+* Cool mint 🌿🧊
+* Sour strawberry Dragonfruit (🍓+pitaya)
+* Kiwi passion fruit guava (🥝+maracujá+goiaba)
 
-â”â”â”â”â” OUTRAS MARCAS â”â”â”â”â”
+━━━━━ OUTRAS MARCAS ━━━━━
 
-*ðŸš€LANÃ‡AMENTOðŸš€*
+*🚀LANÇAMENTO🚀*
 *OXBAR X15K 15.000 puffs R$89,00*
-âœ… CUSTO BENEFÃCIO âœ…
+✅ CUSTO BENEFÍCIO ✅
 * Aloe grape ice (uva verde icy)
-* Blueberry ice ðŸ«
-* Cool mint ðŸŒ¿ðŸ§Š
-* Grape ice ðŸ‡
-* Strawberry watermelon ice ðŸ“ðŸ‰
+* Blueberry ice 🫐
+* Cool mint 🌿🧊
+* Grape ice 🍇
+* Strawberry watermelon ice 🍓🍉
 
 *Nickbar 30.000 puffs R$99,00*
-* Icy mint ðŸŒ¿ðŸ§Š
-* Menthol ðŸŒ¿
-* Strawberry kiwi ðŸ“ðŸ¥
-* Watermelon ice ðŸ‰
+* Icy mint 🌿🧊
+* Menthol 🌿
+* Strawberry kiwi 🍓🥝
+* Watermelon ice 🍉
 
 *Nickbar 10.000 puffs R$79,00*
-âœ… CUSTO BENEFÃCIO âœ…
-ðŸ”¥PROMOÃ‡ÃƒO - *2 POR R$69,00 (CADA)*
+✅ CUSTO BENEFÍCIO ✅
+🔥PROMOÇÃO - *2 POR R$69,00 (CADA)*
 * Aloe grape (uva verde)
-* Banana ice ðŸŒ
-* Blueberry ice ðŸ«
-* Cherry Watermelon ice ðŸ’ðŸ‰
-* Grape ice ðŸ‡
-* Green Apple ðŸ
-* Juicy peach ðŸ‘
-* Menthol ðŸŒ¿
-* Pineaple ice ðŸ
-* Strawberry banana ðŸ“ðŸŒ
-* Strawberry ice ðŸ“
-* Strawberry kiwi ðŸ“ðŸ¥
-* Watemelon ice ðŸ‰
-* Passion fruit sour kiwi (maracujÃ¡+ðŸ¥)
+* Banana ice 🍌
+* Blueberry ice 🫐
+* Cherry Watermelon ice 🍒🍉
+* Grape ice 🍇
+* Green Apple 🍏
+* Juicy peach 🍑
+* Menthol 🌿
+* Pineaple ice 🍍
+* Strawberry banana 🍓🍌
+* Strawberry ice 🍓
+* Strawberry kiwi 🍓🥝
+* Watemelon ice 🍉
+* Passion fruit sour kiwi (maracujá+🥝)
 
-ðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸ
-ðŸ† *LEMBRE-SE: A CADA R$200,00*
-ðŸŽ *UM PACOTE DE FIGURINHAS DA COPA!*
-âš½ *BORA COMPLETAR O ÃLBUM!* ðŸ‡§ðŸ‡·
-ðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸðŸŒŸ
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+🏆 *LEMBRE-SE: A CADA R$200,00*
+🎁 *UM PACOTE DE FIGURINHAS DA COPA!*
+⚽ *BORA COMPLETAR O ÁLBUM!* 🇧🇷
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
-ðŸ‘‘ Entra na comunidade TG VIP:
+👑 Entra na comunidade TG VIP:
 https://chat.whatsapp.com/E4cwxats9SS4j8qI49okfv`;
 
 module.exports = CATALOGO;
